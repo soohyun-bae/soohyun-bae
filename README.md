@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img width="884" alt="스크린샷 2024-11-06 00 00 10" src="https://github.com/user-attachments/assets/226c937b-4c4e-4a4f-8953-f27e6b9e668e">
+</div>
 
 <!--
 **soohyun-bae/soohyun-bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
