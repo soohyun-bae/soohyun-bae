@@ -2,6 +2,14 @@
   <img width="884" alt="스크린샷 2024-11-06 00 00 10" src="https://github.com/user-attachments/assets/226c937b-4c4e-4a4f-8953-f27e6b9e668e">
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/soohyun-bae?pet-id=646348099188673740"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **soohyun-bae/soohyun-bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
