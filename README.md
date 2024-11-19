@@ -4,6 +4,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
 <img
+  align="center"
   src="https://render.gitanimals.org/farms/soohyun-bae"
   width="600"
   height="300"
