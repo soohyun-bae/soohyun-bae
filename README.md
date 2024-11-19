@@ -3,11 +3,11 @@
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/soohyun-bae?pet-id=646348099188673740"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/soohyun-bae"
+  width="600"
+  height="300"
+/>
 </a>
   
 <!--
